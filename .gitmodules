@@ -1,0 +1,3 @@
+[submodule "web-bluetooth-typings"]
+	path = web-bluetooth-typings
+	url = https://github.com/urish/web-bluetooth-typings.git
